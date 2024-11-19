@@ -1,0 +1,51 @@
+Edad;Duración ciclo menstrual;Alargue de duración de ciclo menstrual;Aumento de sangrado;Intensidad de dolor;Dolor durante relaciones sexuales;Parientes cercanos con endometriosis;Dificultad para embarazo;Nivel de riesgo
+30;5;2;TRUE;moderado;TRUE;FALSE;FALSE;intermedio
+25;4;1;FALSE;leve;FALSE;TRUE;FALSE;bajo
+35;6;3;TRUE;intenso;TRUE;FALSE;TRUE;alto
+28;5;2;FALSE;moderado;FALSE;TRUE;FALSE;intermedio
+22;4;1;FALSE;ninguno;FALSE;FALSE;FALSE;muy bajo
+32;6;2;TRUE;moderado;TRUE;TRUE;TRUE;alto
+27;4;1;FALSE;leve;FALSE;TRUE;FALSE;bajo
+33;7;4;TRUE;intenso;TRUE;FALSE;TRUE;muy alto
+29;6;2;FALSE;moderado;FALSE;TRUE;FALSE;intermedio
+31;5;3;TRUE;leve;TRUE;FALSE;TRUE;bajo
+26;4;1;FALSE;ninguno;FALSE;TRUE;FALSE;muy bajo
+34;7;3;TRUE;intenso;TRUE;FALSE;TRUE;muy alto
+24;4;1;FALSE;leve;FALSE;TRUE;FALSE;bajo
+36;6;4;TRUE;intenso;TRUE;FALSE;TRUE;alto
+23;5;2;TRUE;moderado;TRUE;TRUE;FALSE;intermedio
+37;4;1;FALSE;leve;FALSE;TRUE;FALSE;bajo
+38;7;3;TRUE;intenso;TRUE;FALSE;TRUE;muy alto
+39;5;2;FALSE;moderado;FALSE;TRUE;FALSE;intermedio
+40;6;4;TRUE;leve;TRUE;FALSE;TRUE;bajo
+41;5;1;FALSE;intenso;TRUE;TRUE;FALSE;muy bajo
+42;4;3;TRUE;moderado;TRUE;FALSE;TRUE;alto
+43;6;2;FALSE;intenso;TRUE;TRUE;FALSE;bajo
+44;7;4;TRUE;leve;TRUE;FALSE;TRUE;intermedio
+45;5;1;FALSE;intenso;TRUE;FALSE;TRUE;muy alto
+46;4;2;TRUE;moderado;TRUE;TRUE;FALSE;intermedio
+30;5;2;TRUE;moderado;TRUE;FALSE;FALSE;intermedio
+25;4;1;FALSE;leve;FALSE;TRUE;FALSE;bajo
+35;6;3;TRUE;intenso;TRUE;FALSE;TRUE;alto
+28;5;2;FALSE;moderado;FALSE;TRUE;FALSE;intermedio
+22;4;1;FALSE;ninguno;FALSE;FALSE;FALSE;muy bajo
+32;6;2;TRUE;moderado;TRUE;TRUE;TRUE;alto
+27;4;1;FALSE;leve;FALSE;TRUE;FALSE;bajo
+33;7;4;TRUE;intenso;TRUE;FALSE;TRUE;muy alto
+29;6;2;FALSE;moderado;FALSE;TRUE;FALSE;intermedio
+31;5;3;TRUE;leve;TRUE;FALSE;TRUE;bajo
+26;4;1;FALSE;ninguno;FALSE;TRUE;FALSE;muy bajo
+34;7;3;TRUE;intenso;TRUE;FALSE;TRUE;muy alto
+24;4;1;FALSE;leve;FALSE;TRUE;FALSE;bajo
+36;6;4;TRUE;intenso;TRUE;FALSE;TRUE;alto
+23;5;2;TRUE;moderado;TRUE;TRUE;FALSE;intermedio
+37;4;1;FALSE;leve;FALSE;TRUE;FALSE;bajo
+38;7;3;TRUE;intenso;TRUE;FALSE;TRUE;muy alto
+39;5;2;FALSE;moderado;FALSE;TRUE;FALSE;intermedio
+40;6;4;TRUE;leve;TRUE;FALSE;TRUE;bajo
+41;5;1;FALSE;intenso;TRUE;TRUE;FALSE;muy bajo
+42;4;3;TRUE;moderado;TRUE;FALSE;TRUE;alto
+43;6;2;FALSE;intenso;TRUE;TRUE;FALSE;bajo
+44;7;4;TRUE;leve;TRUE;FALSE;TRUE;intermedio
+45;5;1;FALSE;intenso;TRUE;FALSE;TRUE;muy alto
+46;4;2;TRUE;moderado;TRUE;TRUE;FALSE;intermedio
